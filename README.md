@@ -1,10 +1,8 @@
 # Hey, I'm Anass 👋
 
-**Full Stack Developer** · 1337 Khouribga (42 Network) Graduate · Based in Morocco 🇲🇦
+**Software Engineer** · 1337 Khouribga (42 Network) · Morocco 🇲🇦
 
-I build production-grade web applications — not demos. Real authentication, real-time features, real infrastructure. Currently looking for a **Full Stack / JavaScript internship** (remote, hybrid, or on-site).
-
----
+I build things for the web — full stack applications with real authentication, real-time features, and production infrastructure. I care about clean code, good architecture, and shipping things that actually work.
 
 ## 🛠️ Stack
 

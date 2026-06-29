@@ -88,5 +88,3 @@ I'm actively looking for a **Full Stack or JavaScript Developer internship** —
 [![GitHub](https://img.shields.io/badge/-anass--hajjaji-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anass-hajjaji)
 
 ---
-
-*Arabic (Native) · French (Intermediate) · English (Fluent)*

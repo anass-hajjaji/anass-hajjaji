@@ -2,7 +2,7 @@
 
 **Software Engineer** · 1337 Khouribga (42 Network) · Morocco 🇲🇦
 
-I build things for the web — full stack applications with real authentication, real-time features, and production infrastructure. I care about clean code, good architecture, and shipping things that actually work.
+I build things for the web — full stack applications with real authentication, real-time features, and production infrastructure. Before that, I spent two years mastering low-level programming in C and C++: building an IRC server from scratch, a custom UNIX shell, and other systems-level projects that taught me how things actually work under the hood. I care about clean code, good architecture, and shipping things that actually work.
 
 ## 🛠️ Stack
 
